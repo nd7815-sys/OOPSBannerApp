@@ -1,9 +1,10 @@
-/**@author Developer
-*@versrion 1.0
-*/
+public static void main(String[] args) {
 
-public class OOPSBannerApp{
-	public static void main(String[] args){
-		System.out.println("OOPS");
-	}
+    System.out.println("  *****  " + "  *****  " + "  *****  " + "  *****  ");
+    System.out.println(" *     * " + " *     * " + " *     * " + " *       ");
+    System.out.println(" *     * " + " *     * " + " *     * " + " *       ");
+    System.out.println(" *     * " + " *     * " + "  *****  " + "  *****  ");
+    System.out.println(" *     * " + " *     * " + " *       " + "       * ");
+    System.out.println(" *     * " + " *     * " + " *       " + "       * ");
+    System.out.println("  *****  " + "  *****  " + " *       " + "  *****  ");
 }
